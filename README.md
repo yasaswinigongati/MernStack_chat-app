@@ -1,5 +1,6 @@
 MERN Stack Chat App with Real-Time Messaging and JWT Authentication
 
+" To communicate and share images. "
 🌟 Features
 Authentication & Authorization with JWT (JSON Web Tokens).
 Real-time messaging using Socket.io.
